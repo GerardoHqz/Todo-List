@@ -154,6 +154,7 @@ ul{
 }
 
 .btn-update{
+    padding: 5px 15px;
 	background-image: url(../Images/update.png);
     background-size: cover;
 	outline: none;
